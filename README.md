@@ -1,0 +1,2 @@
+# domanator
+Domain manager
